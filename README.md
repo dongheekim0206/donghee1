@@ -1,11 +1,4 @@
 
-제목 1
-=====
-제목 2
------
-
-
-
 # 마크다운 테스트
 
 # 1. 나의 첫 게임 UI디자인 문서
@@ -30,4 +23,4 @@ __*게임*__</br>
 1. 순서가 있는 리스트
 2. 순서가 있는 리스트
 
-[마이노션](https://atentsgamedesign.notion.site/UXUI-58fbd6f6b6594252afe75f2e6078dd36?pvs=4)
+[넥스바로가기](https://www.nexon.com/Home/Game)
